@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(224, 160, 22);
+}
+.card {
+    transition: transform 0.5s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
